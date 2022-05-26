@@ -1,6 +1,6 @@
 # Time Mine
 
-You can play the game at this link:
+You can play the game at this link (password is "time-mine"):
 
 https://eldonelectronic.itch.io/time-mine-final
 
